@@ -142,6 +142,7 @@ body{
     color: #7D7D7D;
 }
 .main-intro-button {
+    width: 260px;
     padding: 12px 30px;
     background: #717CFF;
     border-radius: 11px;
@@ -426,6 +427,7 @@ body{
     color: green;
 }
 .section4-button {
+    width: 260px;
     margin-top: 140px;
     margin-left: 500px;
     padding-top: 12px;
@@ -787,6 +789,7 @@ body{
     color: #252525;
 }
 .last-section-button {
+    width: 260px;
     padding: 12px 30px;
     background: #717CFF;
     border-radius: 11px;
